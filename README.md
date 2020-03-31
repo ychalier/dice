@@ -1,4 +1,6 @@
-# DICE: Joint-Reasoning for Multi-Faceted Commonsense Knowledge
+# DICE
+
+This repository contains the implementation of DICE, a framework developped for the *Joint-Reasoning for Multi-Faceted Commonsense Knowledge* paper by Yohan Chalier, Simon Raznewski and Gerhard Weikum at the Max-Planck Institute for Informatics, available on [arXiv](https://arxiv.org/abs/2001.04170).
 
 ## Setup
 
